@@ -1,4 +1,4 @@
-package de.dhbw.vs.utils.logging;
+package de.arul.vs.utils.logging;
 
 	public enum LogLevel {
 		TRACE,

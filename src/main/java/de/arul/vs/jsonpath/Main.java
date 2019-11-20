@@ -1,4 +1,4 @@
-package de.dhbw.vs.jsonpath;
+package de.arul.vs.jsonpath;
 
 import java.io.InputStream;
 import java.util.Scanner;
@@ -6,8 +6,8 @@ import java.util.Scanner;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import de.dhbw.vs.utils.logging.LogLevel;
-import de.dhbw.vs.utils.logging.Logging;
+import de.arul.vs.utils.logging.LogLevel;
+import de.arul.vs.utils.logging.Logging;
 
 public class Main {
 
